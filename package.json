@@ -7,7 +7,7 @@
   "author": "adina foxova",
   "license": "MIT",
   "private": false,
-  "devDependencies": {
+  "dependencies": {
     "vitepress": "^1.0.0-alpha.33",
     "vue": "^3.2.45"
   },
