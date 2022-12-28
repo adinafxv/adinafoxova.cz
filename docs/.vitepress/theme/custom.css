@@ -82,3 +82,7 @@ h1, h2, h3, h4, h5, h6,
   letter-spacing: 0.2ch;
   line-height: 1.2em;
 }
+
+.VPDocAsideOutline {
+  display: none !important;
+}
