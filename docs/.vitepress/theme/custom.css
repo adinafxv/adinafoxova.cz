@@ -1,4 +1,84 @@
 :root {
     --vp-c-brand: #646cff;
     --vp-c-brand-light: #747bff;
+    --c0: hsl(329, 91%, 69%);
+    --c1: #bee647;
+    --c2: #e6c341;
+    --c3: hsl(16, 70%, 61%);
+    --c4: hsl(337, 93%, 62%);
+    --c5: hsl(319, 85%, 65%);
+    --c6: hsl(273, 77%, 65%);
+    --c7: hsl(239, 87%, 67%);
   }
+
+  .VPNavBarHamburger,
+  .VPNavBarExtra {
+    display: none !important;
+  }
+
+  .VPNavBarAppearance {
+    display: flex !important;
+  }
+
+body.dark svg.logo {
+    color: white;
+}
+
+body, h1, h2, h3, h4, h5, h6 {
+  font-family: Consolas, 'Lucida Console', 'DejaVu Sans Mono', monospace;
+  font-weight: 400;
+}
+
+body {
+  letter-spacing: 0.1ch;
+  font-size: 16px;
+}
+
+h1, .vp-doc h1 {
+  background: 
+    -webkit-linear-gradient(
+      45deg, 
+      var(--c3),
+      var(--c4)
+    );
+  font-size: 2.4rem;
+}
+
+h2, .vp-doc h2 {
+  background: 
+    -webkit-linear-gradient(
+      45deg, 
+      var(--c4),
+      var(--c5)
+    );
+  font-size: 1.4rem;
+}
+
+h3, .vp-doc h3 {
+  background: 
+    -webkit-linear-gradient(
+      45deg, 
+      var(--c5),
+      var(--c6)
+    );
+}
+
+h4, h5, h6 {
+  background: 
+    -webkit-linear-gradient(
+      45deg, 
+      var(--c6),
+      var(--c7)
+    );
+}
+
+h1, h2, h3, h4, h5, h6,
+.vp-doc h1, .vp-doc h2, .vp-doc h3, .vp-doc h4, .vp-doc h5, .vp-doc h6 {
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  display: inline-block;
+  margin-top: 1.2em !important;
+  margin-bottom: .2em !important;
+  letter-spacing: 0.2ch;
+  line-height: 1.2em;
+}
