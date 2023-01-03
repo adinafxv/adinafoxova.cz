@@ -15,4 +15,5 @@ nice to meet you! :wave:
 I‘m Adina Foxova, UX Designer with experience in Product Design and Project Management.
 
 ## Contacts
-[LinkedIn](https://www.linkedin.com/in/adina-foxova) | [GitHub](https://github.com/adinafxv) |  [Mastodon](https://techhub.social/@adina) | [Twitter](https://twitter.com/AdinaFXV)
+[LinkedIn](https://www.linkedin.com/in/adina-foxova) | [GitHub](https://github.com/adinafxv) |  <a rel="me" href="https://techhub.social/@adina">Mastodon</a> | [Twitter](https://twitter.com/AdinaFXV)
+
