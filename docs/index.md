@@ -17,5 +17,5 @@ Jsem Adina Foxová, UX Designérka s přesahem do produktového designu a projek
 ## Kontakty
 [LinkedIn](https://www.linkedin.com/in/adina-foxova) | [GitHub](https://github.com/adinafxv) |  <a rel="me" href="https://techhub.social/@adina">Mastodon</a>  | [Twitter](https://twitter.com/AdinaFXV)
 
-
+<small class="offset">IČ: 05474574, DIČ: CZ9055226213, Zapsána v ŽR</small>
 

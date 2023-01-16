@@ -107,3 +107,18 @@ h1, h2, h3, h4, h5, h6,
 .VPDocAsideOutline {
   display: none !important;
 }
+
+small {
+  font-size: 8px;
+  line-height: 1.2;
+}
+
+.offset {
+  padding-top: 80px;
+}
+
+@media screen and (max-width: 600px) {
+ .offset {
+  padding-top: 32px;
+ }
+}
