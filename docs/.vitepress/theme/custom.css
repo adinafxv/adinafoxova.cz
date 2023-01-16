@@ -109,8 +109,9 @@ h1, h2, h3, h4, h5, h6,
 }
 
 small {
-  font-size: 8px;
+  font-size: 10px;
   line-height: 1.2;
+  display: inline-block;
 }
 
 .offset {
