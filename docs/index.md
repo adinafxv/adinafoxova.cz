@@ -15,7 +15,7 @@ moc mě těší! :wave:
 Jsem Adina Foxová, UX Designérka s přesahem do produktového designu a projektového řízení.
 
 ## Kontakty
-[LinkedIn](https://www.linkedin.com/in/adina-foxova) | | [Youtube](https://www.youtube.com/@adinafxv) | [GitHub](https://github.com/adinafxv) |  <a rel="me" href="https://techhub.social/@adina">Mastodon</a>  | [Twitter](https://twitter.com/AdinaFXV)
+[LinkedIn](https://www.linkedin.com/in/adina-foxova) | [Youtube](https://www.youtube.com/@adinafxv) | [GitHub](https://github.com/adinafxv) |  <a rel="me" href="https://techhub.social/@adina">Mastodon</a>  | [Twitter](https://twitter.com/AdinaFXV)
 
 <small class="offset">Jsem podnikatelka zapsaná v ŽR, vedená u městského úřad Říčany. Moje IČ je 05474574,  jsem plátce DPH, a moje daňové identifikační číslo je CZ9055226213. </small>
 
