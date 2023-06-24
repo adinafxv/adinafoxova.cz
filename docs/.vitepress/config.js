@@ -30,7 +30,7 @@ export default {
   
   
   themeConfig: {
-    siteTitle: '{fxv}',
+    siteTitle: '{Adina.',
     
     /* locales: {
       '/': {
