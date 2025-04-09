@@ -1,4 +1,5 @@
 export default {
+  titleTemplate: ':title',
   
   locales: {
     // The key is the path for the locale to be nested under.
@@ -30,7 +31,7 @@ export default {
   
   
   themeConfig: {
-    siteTitle: '{Adina.',
+    siteTitle: 'Adina Foxová',
     
     /* locales: {
       '/': {
